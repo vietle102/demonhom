@@ -25,7 +25,7 @@ public class GamePlatform extends Application {
     private double monsterX = 400, monsterY = 500, monsterVelocityY = 0;
     private boolean monsterJumping = false, monsterOnGround = true, monsterMovingRight = true;
 
-    // Đòn tấn công nhân vật
+    // Đòn tấn công nhân vật ABC
     private Rectangle attackBox;
     private boolean attackActive = false;
     private long attackStartTime = 0;
